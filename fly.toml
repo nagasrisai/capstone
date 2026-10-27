@@ -1,0 +1,30 @@
+# Always-on hosting on Fly.io (small shared VM + 1 GB volume for the SQLite database).
+#   fly launch --no-deploy --copy-config    # once; pick a region near you
+#   fly volumes create assistant_data --size 1
+#   fly secrets set ANTHROPIC_API_KEY=... TWILIO_ACCOUNT_SID=... TWILIO_AUTH_TOKEN=... \
+#       OWNER_PHONE=+91... OWNER_NAME=... OWNER_TIMEZONE=Asia/Kolkata \
+#       TWILIO_WHATSAPP_FROM=whatsapp:+14155238886 PUBLIC_BASE_URL=https://<app>.fly.dev
+#   fly deploy
+app = "personal-assistant"
+primary_region = "sin"
+
+[build]
+
+[env]
+  DATABASE_PATH = "/app/data/assistant.db"
+
+[http_service]
+  internal_port = 8000
+  force_https = true
+  auto_stop_machines = "off"     # reminders must fire even when nobody is messaging
+  auto_start_machines = true
+  min_machines_running = 1
+
+[mounts]
+  source = "assistant_data"
+  destination = "/app/data"
+
+[[vm]]
+  memory = "512mb"
+  cpu_kind = "shared"
+  cpus = 1

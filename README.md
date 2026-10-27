@@ -58,13 +58,39 @@ uvicorn assistant.server:create_app --factory --port 8000
 ```
 Expose it, e.g. `ngrok http 8000`, and put the HTTPS URL in `PUBLIC_BASE_URL`.
 
-### 4. Point Twilio at it
-| Twilio setting | URL (POST) |
+### 4. Let the setup script configure Twilio
+```bash
+python scripts/setup_twilio.py               # checks the account, gets/configures a voice number,
+                                             # verifies your mobile as a caller ID
+python scripts/setup_twilio.py --test-call   # rings your phone with a test message
+python scripts/setup_twilio.py --test-whatsapp
+```
+It buys the free trial voice number if you have none (asks first), points its "A call comes in"
+webhook at `/webhooks/voice/inbound`, and starts the caller-ID verification call that trial
+accounts need. The only manual steps are the two WhatsApp sandbox actions Twilio keeps in its
+web console, which the script prints:
+
+| Twilio console | What to do |
 |---|---|
-| WhatsApp sandbox "When a message comes in" | `https://<PUBLIC_BASE_URL>/webhooks/whatsapp` |
-| Voice number "A call comes in" | `https://<PUBLIC_BASE_URL>/webhooks/voice/inbound` |
+| Messaging > Try it out > Send a WhatsApp message | WhatsApp `join <code>` to the sandbox number from your phone |
+| Sandbox settings > "When a message comes in" | `https://<PUBLIC_BASE_URL>/webhooks/whatsapp`, POST |
 
 Outbound calls fetch their script from `/webhooks/voice/outbound/{job}` automatically.
+
+## Hosting: where should it run?
+
+Twilio must be able to reach the server, and reminders only fire while it is running, so for
+daily use it needs an always-on host. Options, cheapest first:
+
+| Option | Cost | Good for |
+|---|---|---|
+| Your laptop + `ngrok http 8000` | free | Trying it out. Reminders stop when the laptop sleeps, and the ngrok URL changes on every restart (update `PUBLIC_BASE_URL` and the Twilio webhooks). |
+| An old laptop / Raspberry Pi at home + Cloudflare Tunnel | free | Always on at home; a named tunnel gives a stable URL. |
+| Fly.io (`fly.toml` included) | a few dollars a month | Always on, stable URL, persistent disk. See the comments in `fly.toml`. |
+| Any small VPS + `docker compose up -d` | ~$5 a month | Same, with full control. Put a reverse proxy with HTTPS (Caddy) in front. |
+
+Free web hosts that "sleep" when idle (Render free tier, etc.) are not suitable: the scheduler
+is asleep when your reminder is due.
 
 ### Try it without Twilio
 ```bash
