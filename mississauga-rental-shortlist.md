@@ -1,46 +1,47 @@
-# Mississauga condo rentals under $2,000 (near City Centre) – shortlist, 5 Nov 2026
+# Mississauga condo rentals under $2,000 (near City Centre) – shortlist
 
-Note: Kijiji and Facebook Marketplace could not be opened directly from this session
-(blocked hosts). Listings below come from search-engine snapshots of those sites plus
-Realtor.ca / Zolo / condos.ca, so confirm price and availability before contacting anyone.
+Updated 5 Nov 2026 with live Kijiji data (ads fetched and parsed directly).
+Facebook Marketplace only shows listings to logged-in users, so it could not be checked from here.
 
-## Best matches (full 1-bed condo, City Centre, at or under $2,000)
+## Top picks – verified live on Kijiji today
 
-| Address / building | Price | Notes | Source |
-|---|---|---|---|
-| 448 Burnhamthorpe Rd W #6803 (M3 Condos, Webb Dr) | $1,949 | 1 bed / 1 bath, 500-599 sqft, MLS W13840454, listed ~5 weeks ago | Realtor.ca / Zolo |
-| 448 Burnhamthorpe Rd W #503 (M3 Condos) | $1,950 | Brand-new 1 bed / 1 bath suite | liv.rent |
-| 448 Burnhamthorpe Rd W #1410 (M3 Condos) | $1,999 | 1 bed / 1 bath, 600-699 sqft, MLS W14126520, new listing | Zolo |
-| 448 Burnhamthorpe Rd W #5510 and #5810 (M3 Condos) | $2,000 | 1 bed / 1 bath, MLS W14140870 / W14140882, new listings | Realtor.ca |
-| 4065 Brickstone Mews #314 (Parkside Village) | $1,995 | 1 bed / 1 bath, 500+ sqft, steps to Square One | Realtor.ca |
-| 3504 Hurontario St (Fairview) | $1,850 | 1 bed condo, 1 parking + locker, walk to Square One, near Cooksville GO | Kijiji |
-| Square One area, City Centre | $1,900 | 1 bed / 1 bath, ~600 sqft, fully furnished, utilities included | Kijiji |
-| Burnhamthorpe & Confederation Pkwy | $1,850 | "Brand new 1BR" condo | Kijiji |
-| Near Square One | $1,950 | 1 bed condo, parking included | Kijiji |
-| 430 Square One Dr #3005 (Avia) | $1,750 | 1 bed / 1 bath, MLS W12652306, older listing, may be gone | Dwelly |
+| # | Address / building | Rent | Type | Posted | Key facts | Link |
+|---|---|---|---|---|---|---|
+| 1 | 448 Burnhamthorpe Rd W #704, M3 Condos (City Centre) | $1,850 | 1 bed / 1 bath condo | 30 Oct | Heart of Square One district; indoor pool, gym, playground; east-facing balcony; walk to Square One, Celebration Square, library, T&T. MLS W14123672 | https://www.kijiji.ca/v-apartments-condos/mississauga-peel-region/704-448-burnhamthorpe-road-mississauga-city-centre-ontario/1745502370 |
+| 2 | 115 Hillcrest Ave, 1 bed + den condo (Cooksville, by Hurontario/Dundas) | $1,950 | 1 bed + den / 1 bath condo, 750 sqft | 3 Nov | Rented by owner. Heat, water AND hydro included. 1 parking + locker, in-suite laundry, A/C, concierge. Available now. Den works as a 2nd room for a family. Close to Square One, Cooksville GO. | https://www.kijiji.ca/v-apartments-condos/mississauga-peel-region/1-bedroom-den-condo-for-rent/1745696366 |
+| 3 | 3504 Hurontario St #2509 (Fairview, 5-10 min to Square One) | $1,996 | 1 bed / 1 bath condo | 20 Oct | 9 ft ceilings, carpet-free, large balcony, 24h concierge, pool, sauna, gym. Near Cooksville GO and Trillium Hospital. MLS W14091402 | https://www.kijiji.ca/v-apartments-condos/mississauga-peel-region/2509-3504-hurontario-street-mississauga-fairview-ontario/1745069273 |
+| 4 | 25 Paisley Blvd E, Unit 2 (Cooksville) | $1,950 | Large 1 bed / 1 bath, low-rise | 30 Oct | Quiet small building, upgraded kitchen with stainless appliances; steps to Cooksville GO and the Hurontario LRT. MLS W14126888. Unit 6 in same building also listed at $1,950. | https://www.kijiji.ca/v-apartments-condos/mississauga-peel-region/unit-2-25-paisley-boulevard-e-mississauga-cooksville-ontari/1745505479 |
 
-## Nearby, just outside City Centre, under $2,000
+## Good alternatives – purpose-built apartment buildings (not condos, not basements)
 
-| Address | Price | Notes | Source |
-|---|---|---|---|
-| 3009 Novar Rd #1114 (Cooksville) | $2,000 | 1 bed / 1 bath, 500-599 sqft, listed ~1 day ago | Zolo |
-| 601 Shoreline Dr #145 (Cooksville) | $1,700 | 1 bed / 1 bath | Realtor.ca |
-| 2340 Park Towers Ave (Cooksville) | $1,799 | 1 bed (also a $1,650 studio) | Zolo |
+| Address | Rent | Type | Posted | Key facts | Link |
+|---|---|---|---|---|---|
+| 33 Central Parkway W (Hurontario & Central Pkwy, near Square One) | $1,995 | 2 bed / 1 bath apartment | 27 Oct | Heat, water, hydro included; elevator; large balcony; parking $90 outdoor / $125 underground; $500 move-in bonus. Best option if your family needs two real bedrooms. | https://www.kijiji.ca/v-apartments-condos/mississauga-peel-region/2-bed-1-bath-apartment-mississauga/1745398556 |
+| 3122 Hurontario St (near Square One) | $1,995 | 1 bed, 625 sqft, renovated | 6 Oct | Available 1 Dec 2026; balcony; heat included; on-site laundry. | https://www.kijiji.ca/v-apartments-condos/mississauga-peel-region/1-bedroom-apartment-for-rent-3122-hurontario-street/1744458371 |
+| Hurontario Apartments, 2440 Hurontario St (Hurontario & Dundas) | from $1,795 | 1 bed apartment | 3 Sep | Heat and water included; balcony; locker; 24/7 on-site management. | https://www.kijiji.ca/v-apartments-condos/mississauga-peel-region/spacious-one-bedroom-unit-for-rent/1742972159 |
+| Park Towers, 2340 Park Towers Ave (Cooksville) | $1,650 | 1 bed, 650 sqft apartment | Mar (ad still active) | 1 parking, water included, pets OK. Older ad, confirm availability. | https://www.kijiji.ca/v-apartments-condos/mississauga-peel-region/park-towers/1734914251 |
 
-## Skipped on purpose
-- Basement units on Hurontario ($1,750) and near Square One ($1,800) – you asked for no basements.
-- Shared rooms at 370 Square One Dr ($1,700) – room share, not a unit.
-- Facebook Marketplace: the only City Centre condo found (Edge Tower, Elm Dr W) was $2,650 and already rented.
+## Also seen on Realtor.ca / Zolo (from search results, not fetched live)
+- 448 Burnhamthorpe Rd W #6803, $1,949, 1 bed, 500-599 sqft, MLS W13840454.
+- 448 Burnhamthorpe Rd W #1410, $1,999, 1 bed, 600-699 sqft, MLS W14126520.
+- 448 Burnhamthorpe Rd W #5510 and #5810, $2,000, 1 bed, MLS W14140870 / W14140882.
+- 4065 Brickstone Mews #314 (Parkside Village), $1,995, 1 bed.
+- 3009 Novar Rd #1422, Arte Residences (Cooksville), $1,950 – condo loft, studio layout, so probably too small for a family.
+
+## Excluded on purpose
+- Basement and lower-level units (4176 Cawthra Rd $1,600, 4670 Antelope Cres $1,700, others).
+- Rooms, shared units and sublets.
+- Ads posted under Mississauga but actually in Etobicoke, Brampton, Orangeville, Kitchener, Woodbridge.
 
 ## Market context
-- Rentals.ca Mississauga average 1-bed: ~$2,036 (Sept 2026).
-- Zumper City Centre average 1-bed: ~$2,225 (Mar 2026), comparables ~$1,987.
-- So sub-$2,000 City Centre 1-beds exist but go fast. M3 Condos (448 Burnhamthorpe W) currently has the most units in range.
+- Rentals.ca Mississauga average 1-bed: about $2,036 (Sept 2026).
+- Zumper City Centre average 1-bed: about $2,225 (Mar 2026).
+- Under $2,000 in City Centre proper is scarce; M3 Condos at 448 Burnhamthorpe W is the building with the most units in range.
 
-## Direct search links
-- Kijiji, 1-bed near Square One: https://www.kijiji.ca/b-apartments-condos/mississauga-peel-region/square-one/1+bedroom/k0c37l1700276a27949001
-- Kijiji, condos Mississauga under $2,000 (newest first): https://www.kijiji.ca/b-apartments-condos/mississauga-peel-region/condo/c37l1700276a29276001?price=__2000&sort=dateDesc
+## Search links to keep checking
+- Kijiji, Mississauga 1-bed under $2,000, newest first: https://www.kijiji.ca/b-apartments-condos/mississauga-peel-region/1+bedroom/c37l1700276a27949001?price=__2000&sort=dateDesc
+- Kijiji, "square one" under $2,000: https://www.kijiji.ca/b-apartments-condos/mississauga-peel-region/square-one/k0c37l1700276?price=__2000&sort=dateDesc
+- Kijiji, "city centre" under $2,000: https://www.kijiji.ca/b-apartments-condos/mississauga-peel-region/city-centre/k0c37l1700276?price=__2000&sort=dateDesc
 - Facebook Marketplace, Mississauga condos: https://www.facebook.com/marketplace/106262189412553/condos-for-rent/
 - Facebook Marketplace, Mississauga 1-bed: https://www.facebook.com/marketplace/106262189412553/1-bedroom-apartments/
 - Realtor.ca Mississauga condos for rent: https://www.realtor.ca/on/mississauga/condos-for-rent
-- Zolo City Centre 1-bed: https://www.zolo.ca/mississauga-real-estate/city-centre/1-bedroom-apartments-for-rent
